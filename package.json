@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "express": "4.17.2"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts ": {
+    "start": "node index.js",
+    "install-dep": "npm i --no-bin-links"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "---\r #### Introduction\r > I was try to register to a gender API, and I still didn't get an email from them, a reason why I do some research on how do people recognized their names, and one of this is thru their first name. I would like to thank those people who helped me a lot, specially for this project.\r ---\r #### How to use\r > I've used `NodeJs`, with `Axios` to execute this, I still don't know how to use to other language. Just use `name` as key to get the `gender` value, if ever you use the api to other languages.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
